@@ -1,0 +1,16 @@
+# IPTV Free Generator
+
+Generador automático de playlist M3U con metadata gratis.
+
+## APIs usadas
+- OMDb (películas)
+- TVMaze (series)
+- Fanart.tv (posters)
+
+## Output
+output/playlist.m3u
+
+## Uso
+1. Agregar API keys
+2. Ejecutar main.py
+3. Subir a GitHub
